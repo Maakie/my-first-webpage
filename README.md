@@ -1,8 +1,8 @@
-# _{Application Name}_
+# My first webpage
 
-#### _{Brief description of application}, {Date of current version}_
+#### My website, 8/12/2019
 
-#### By _**{Sharmarke Mohamed}**_
+#### By **Sharmarke Mohamed**
 
 ## Description
 
@@ -30,4 +30,4 @@ Currently only working with HTML. CSS and JS to come as the website grows.
 ### License
 
 
-Copyright (c) 2019 **_{Sharmarke Mohamed}_**
+Copyright (c) 2019 **Sharmarke Mohamed**
